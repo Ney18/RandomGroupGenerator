@@ -1,0 +1,23 @@
+body {
+  background-color: #6f3ee2b9;
+  font-family: sans-serif;
+}
+
+textarea {
+  width: 276px;
+  resize: vertical;
+}
+
+table {
+  text-align:left;
+}
+
+#result {
+  background-color: white;
+  border-radius: 3px;
+  margin-top: 10px;
+  padding-left: 15px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  width: 300px;
+}
